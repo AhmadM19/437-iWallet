@@ -1,0 +1,42 @@
+.UpperPhoto {
+  margin-top: 20px;
+  width: 80%;
+  height: 300px;
+}
+
+.headerHeading{
+  margin-top: 20px;
+  font-size: 50px;
+  letter-spacing:10;
+}
+
+.Cards{
+  margin: 30px 0px;
+  /* padding-bottom: 100px; */
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Cards:hover{
+  cursor: pointer;
+}
+
+.LeftMain{
+  margin-left: 50px;
+  width: 40%;
+}
+
+.RightMain{
+  padding: 0;
+  margin: 0;
+}
+
+.DataGrid{
+  color: #fff;
+  background-color: #282c34;
+  width: 100%;
+  margin-right: 30px;
+}
